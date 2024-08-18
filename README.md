@@ -1,1 +1,1 @@
-This repository is for the Computational Techniques for Meteorology course at Florida Tech. Much of the first-year material has be adapted from my colleague's (Kevin Goebbert) repository at Valaparaiso University.
+This repository is for the Computational Techniques for Meteorology course at Florida Tech. Much of the first-year material has be adapted from my colleague's (Kevin Goebber) repository at Valaparaiso University.
